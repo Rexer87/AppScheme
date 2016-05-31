@@ -1,0 +1,65 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">AppScheme</string>
+    <string name="app_author">Squemauthor</string>
+    <string name="app_maker">Schemaker</string>
+    <string name="app_owner">Schemaker</string>
+    <string name="app_client">Schemeclient</string>
+
+    <!-- Symbols -->
+    <string name="smb_period">.</string>
+    <string name="smb_comma">,</string>
+    <string name="smb_squote">\'</string>
+    <string name="smb_dquote">"</string>
+    <string name="smb_slash">/</string>
+    <string name="smb_backslash">\\</string>
+    <string name="smb_colon">:</string>
+    <string name="smb_hyphen">;</string>
+    <string name="smb_ellipsis">...</string>
+    <string name="smb_parentheses_open">(</string>
+    <string name="smb_parentheses_close">)</string>
+    <string name="smb_brackets_open">[</string>
+    <string name="smb_brackets_close">]</string>
+    <string name="smb_curly_open">{</string>
+    <string name="smb_curly_close">}</string>
+    <string name="smb_question_open">¿</string>
+    <string name="smb_question_close">\?</string>
+    <string name="smb_exclamation_open">¡</string>
+    <string name="smb_exclamation_close">!</string>
+
+    <!-- Text -->
+    <string name="txt_ok">Ok</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_send">Send</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_fname">First Name</string>
+    <string name="txt_lname">Last Name</string>
+    <string name="txt_to">To</string>
+    <string name="txt_subject">Subject</string>
+    <string name="txt_message">Message</string>
+    <string name="txt_confirm">Confirm</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_element_detail">Element Detail</string>
+    <string name="txt_replace">Replace this</string>
+    <string name="txt_details">Details about Item</string>
+
+    <!-- Messages -->
+    <string name="msg_confirmed"></string>
+    <string name="msg_canceled">Cancelled by the user</string>
+    <string name="msg_completed">Completed successfully</string>
+    <string name="msg_finished">Finished!!</string>
+    <string name="msg_loading">Loading Components</string>
+
+    <!-- Errors -->
+    <string name="err">An error has ocurred</string>
+    <string name="err_parser">Error parsing</string>
+    <string name="err_value">Value no found</string>
+    <string name="err_load_components">Error loading components</string>
+    <string name="err_conection_database">Error database conection</string>
+    <string name="err_load_database">Error loading database info</string>
+
+    <!-- String Arrays -->
+
+
+</resources>
